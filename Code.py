@@ -8,7 +8,7 @@ video = VideoFileClip(r"C:\Users\super\Desktop\Lightsaber Duel Custom MP3\lights
 audio = AudioFileClip(r"C:\Users\super\Desktop\Lightsaber Duel Custom MP3\sound.mp3")
 
 # Manually created list of times when lightsabers clash
-clash_times = [1.63, 3.37, 5.29, 5.45, 9.00, 10.72, 11.67, 11.89, 12.60, 13.20, 13.45, 13.70, 14.20, 15.15, 15.75, 16.06, ]  # replace with your times
+clash_times = [1.63, 3.37, 5.29, 5.45, 9.00, 10.72, 11.67, 11.89, 12.60, 13.20, 13.45, 13.70, 14.20, 15.15, 15.40, 15.75, 16.06, ]  # replace with your times
 
 # Create a list to hold the audio clips
 audio_clips = []
