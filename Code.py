@@ -2,7 +2,7 @@ from moviepy.editor import VideoFileClip, concatenate_videoclips, AudioFileClip,
 import numpy as np
 
 # Load video
-video = VideoFileClip(r"C:\Users\super\Desktop\Lightsaber Duel Custom MP3\lightsaber_duel.mov")
+video = VideoFileClip(r"C:\Users\super\Desktop\Lightsaber Duel Custom MP3\lightsaber_duel.mp4")
 
 # Load audio
 audio = AudioFileClip(r"C:\Users\super\Desktop\Lightsaber Duel Custom MP3\sound.mp3")
